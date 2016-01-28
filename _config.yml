@@ -1,19 +1,4 @@
-name: PjB
-favicon: null
-layout_spectrum: 0.59698
-typography_spectrum: 0.86563
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#b4b85e'
@@ -22,7 +7,12 @@ color:
     - '#74d7e6'
     - '#775de9'
   brandStrength: 0.6875
-  lightness: 0.8361377667170018
+  lightness: 0.836137
+  rhythmicContrast: 0.640625
   saturation: 0.375
-  rhythmicContrast: 0.75
+cta: {}
+layout_spectrum: 0.379112
+name: PjB
+opengraph: {}
 purpose: []
+typography_spectrum: 0.588816
